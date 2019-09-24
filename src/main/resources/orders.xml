@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <orders xmlns="http://www.demandware.com/xml/impex/order/2006-10-31">
     <order order-no="INT00266467">
-        <order-date>2019-09-24T12:41:23.000Z<order-date>
+        <order-date>2019-09-24T12:41:23.000Z</order-date>
         <created-by>storefront</created-by>
         <original-order-no>INT00266467</original-order-no>
         <currency>EUR</currency>
@@ -222,6 +222,7 @@
                 <text>39.92EUR has been captured</text>
             </note>
         </notes>
+		<custom-attributes>
             <custom-attribute attribute-id="captureStatus">captured</custom-attribute>
             <custom-attribute attribute-id="emarsysExportStatus">READY_FOR_EXPORT</custom-attribute>
             <custom-attribute attribute-id="paypalPaymentMethod">express</custom-attribute>
@@ -229,5 +230,4 @@
             <custom-attribute attribute-id="siteID">revbe-row</custom-attribute>
         </custom-attributes>
     </order>
-
 </orders>
