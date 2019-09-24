@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <catalog catalog-id="bata-master-catalog" xmlns="http://www.demandware.com/xml/impex/catalog/2006-10-31">
+	
+  <product product-id="2017_001001_0011001">
+    <online-flag>false</online-flag>
+    <searchable-flag>true</searchable-flag>
+    <brand>BATA</brand>
+    <variations>
+      <attributes>
+        <shared-variation-attribute attribute-id="color" variation-attribute-id="color" slicing-attribute="true"></shared-variation-attribute>
+        <shared-variation-attribute attribute-id="size" variation-attribute-id="size"></shared-variation-attribute>
+      </attributes>
+      <variants merge-mode="add">
+        <variant product-id="170R_2017_0011001_01"></variant>
+      </variants>
+      <custom-attributes>
+        <custom-attribute attribute-id="refinementMaterial">1</custom-attribute>
+      </custom-attributes>
+    </variations>
+  </product>
+  <product product-id="170R_2017_0011001_01">
+    <ean>2001100100018</ean>
+    <display-name xml:lang="x-default">SHOPPER L.123DEL2017</display-name>
+    <online-flag>false</online-flag>
+    <searchable-flag>true</searchable-flag>
+    <brand>BATA</brand>
+    <manufacturer-sku>170R_2017_0011001_01</manufacturer-sku>
+    <custom-attributes>
+      <custom-attribute attribute-id="size">UNICA</custom-attribute>
+      <custom-attribute attribute-id="color">WHITE A/O SILVER</custom-attribute>
+      <custom-attribute attribute-id="gender" xml:lang="it-IT">NONE</custom-attribute>
+      <custom-attribute attribute-id="gender" xml:lang="x-default">NONE</custom-attribute>
+      <custom-attribute attribute-id="articleNo">0011001</custom-attribute>
+      <custom-attribute attribute-id="collectionYear">2015</custom-attribute>
+      <custom-attribute attribute-id="collectionCode">F</custom-attribute>
+      <custom-attribute attribute-id="collectionDescription">FALL</custom-attribute>
+      <custom-attribute attribute-id="season">2</custom-attribute>
+      <custom-attribute attribute-id="bataCategory">57</custom-attribute>
+      <custom-attribute attribute-id="bataCategoryCode">SHOPPERS</custom-attribute>
+      <custom-attribute attribute-id="bataSubCategory">5701</custom-attribute>
+      <custom-attribute attribute-id="bataSubCategoryCode">SHOPPERS</custom-attribute>
+      <custom-attribute attribute-id="foot">false</custom-attribute>
+      <custom-attribute attribute-id="firstStockIn">201803</custom-attribute>
+      <custom-attribute attribute-id="upperCode">003</custom-attribute>
+      <custom-attribute attribute-id="upperDescription" xml:lang="it-IT">MATERIALI PLASTICI</custom-attribute>
+      <custom-attribute attribute-id="upperDescription" xml:lang="x-default">MATERIALI PLASTICI</custom-attribute>
+      <custom-attribute attribute-id="outsoleCode"> </custom-attribute>
+      <custom-attribute attribute-id="outsoleDescription" xml:lang="it-IT"> </custom-attribute>
+      <custom-attribute attribute-id="outsoleDescription" xml:lang="x-default"> </custom-attribute>
+      <custom-attribute attribute-id="insoleCode"> </custom-attribute>
+      <custom-attribute attribute-id="insoleDescription" xml:lang="it-IT"> </custom-attribute>
+      <custom-attribute attribute-id="insoleDescription" xml:lang="x-default"> </custom-attribute>
+      <custom-attribute attribute-id="liningCode"> </custom-attribute>
+      <custom-attribute attribute-id="liningDescription" xml:lang="it-IT"> </custom-attribute>
+      <custom-attribute attribute-id="liningDescription" xml:lang="x-default"> </custom-attribute>
+      <custom-attribute attribute-id="supplierCode">510105</custom-attribute>
+      <custom-attribute attribute-id="supplierDescription">KOEX DISTRIBUTION INTEGRAL, SL</custom-attribute>
+      <custom-attribute attribute-id="supplierArticle"> </custom-attribute>
+      <custom-attribute attribute-id="departmentCode">11</custom-attribute>
+      <custom-attribute attribute-id="departmentDescription">SHOPPERS</custom-attribute>
+      <custom-attribute attribute-id="carryOver">false</custom-attribute>
+      <custom-attribute attribute-id="colorCode">02</custom-attribute>
+    </custom-attributes>
+  </product>
+</catalog>
