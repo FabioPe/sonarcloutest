@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders xmlns="http://www.demandware.com/xml/impex/order/2006-10-31">
+    <order order-no="INT00266467">
+        <order-date>2019-09-24T12:41:23.000Z</order-date>
+        <created-by>storefront</created-by>
+        <original-order-no>INT00266467</original-order-no>
+        <currency>EUR</currency>
+        <customer-locale>en</customer-locale>
+        <taxation>gross</taxation>
+        <invoice-no>ROW_00274248</invoice-no>
+        <customer>
+            <customer-no>SF_00232439</customer-no>
+            <customer-name>asass asasa</customer-name>
+            <customer-email>asasasasasa</customer-email>
+            <billing-address>
+                <first-name>vbv</first-name>
+                <last-name>dfdf</last-name>
+                <address1>via F. vbvb</address1>
+                <city>sdsds</city>
+                <postal-code>cdd</postal-code>
+                <state-code>dfgdg</state-code>
+                <country-code>IT</country-code>
+                <phone>+39 121212133</phone>
+            </billing-address>
+        </customer>
+        <status>
+            <order-status>NEW</order-status>
+            <shipping-status>NOT_SHIPPED</shipping-status>
+            <confirmation-status>CONFIRMED</confirmation-status>
+            <payment-status>PAID</payment-status>
+        </status>
+        <current-order-no>INT00266467</current-order-no>
+        <product-lineitems>
+            <product-lineitem>
+                <net-price>9.83</net-price>
+                <tax>2.16</tax>
+                <gross-price>11.99</gross-price>
+                <base-price>11.99</base-price>
+                <lineitem-text>Halloween Haunted House Shadow Palette</lineitem-text>
+                <tax-basis>11.99</tax-basis>
+                <position>1</position>
+                <product-id>1158275</product-id>
+                <product-name>Halloween Haunted House Shadow Palette</product-name>
+                <quantity unit="">1.0</quantity>
+                <tax-rate>0.22</tax-rate>
+                <shipment-id>00022923</shipment-id>
+                <gift>false</gift>
+            </product-lineitem>
+            <product-lineitem>
+                <net-price>9.83</net-price>
+                <tax>2.16</tax>
+                <gross-price>11.99</gross-price>
+                <base-price>11.99</base-price>
+                <lineitem-text>Tasty Palette Coffee</lineitem-text>
+                <tax-basis>11.99</tax-basis>
+                <position>2</position>
+                <product-id>1150019</product-id>
+                <product-name>Tasty Palette Coffee</product-name>
+                <quantity unit="">1.0</quantity>
+                <tax-rate>0.22</tax-rate>
+                <shipment-id>00022923</shipment-id>
+                <gift>false</gift>
+            </product-lineitem>
+            <product-lineitem>
+                <net-price>9.83</net-price>
+                <tax>2.16</tax>
+                <gross-price>11.99</gross-price>
+                <base-price>11.99</base-price>
+                <lineitem-text>Wild Animal Courage Palette</lineitem-text>
+                <tax-basis>11.99</tax-basis>
+                <position>3</position>
+                <product-id>1127660</product-id>
+                <product-name>Wild Animal Courage Palette</product-name>
+                <quantity unit="">1.0</quantity>
+                <tax-rate>0.22</tax-rate>
+                <shipment-id>00022923</shipment-id>
+                <gift>false</gift>
+                <custom-attributes>
+                    <custom-attribute attribute-id="bonusProductLineItemUUID">bonus</custom-attribute>
+                    <custom-attribute attribute-id="preOrderUUID">306a9376f3d2a78ea7f9e47de6</custom-attribute>
+                </custom-attributes>
+            </product-lineitem>
+            <product-lineitem>
+                <net-price>27.05</net-price>
+                <tax>5.95</tax>
+                <gross-price>33.00</gross-price>
+                <base-price>33.00</base-price>
+                <lineitem-text>Web Mystery Bag</lineitem-text>
+                <tax-basis>33.00</tax-basis>
+                <position>4</position>
+                <product-id>1130660</product-id>
+                <product-name>Web Mystery Bag</product-name>
+                <quantity unit="">1.0</quantity>
+                <tax-rate>0.22</tax-rate>
+                <shipment-id>00022923</shipment-id>
+                <gift>false</gift>
+                <custom-attributes>
+                    <custom-attribute attribute-id="bonusProductLineItemUUID">306a9376f3d2a78ea7f9e47de6</custom-attribute>
+                </custom-attributes>
+                <price-adjustments>
+                    <price-adjustment>
+                        <net-price>-27.05</net-price>
+                        <tax>-5.95</tax>
+                        <gross-price>-33.00</gross-price>
+                        <base-price>-33.00</base-price>
+                        <lineitem-text>Mystery Bag EURO</lineitem-text>
+                        <tax-basis>-33.00</tax-basis>
+                        <promotion-id>PROMO_MYSTERYBAG_EURO_ROW</promotion-id>
+                        <campaign-id>PROMO_MYSTERYBAG_EURO_ROW</campaign-id>
+                    </price-adjustment>
+                </price-adjustments>
+            </product-lineitem>
+        </product-lineitems>
+        <shipping-lineitems>
+            <shipping-lineitem>
+                <net-price>3.24</net-price>
+                <tax>0.71</tax>
+                <gross-price>3.95</gross-price>
+                <base-price>3.95</base-price>
+                <lineitem-text>Shipping</lineitem-text>
+                <tax-basis>3.95</tax-basis>
+                <item-id>STANDARD_SHIPPING</item-id>
+                <shipment-id>00022923</shipment-id>
+                <tax-rate>0.22</tax-rate>
+            </shipping-lineitem>
+        </shipping-lineitems>
+        <shipments>
+            <shipment shipment-id="00022923">
+                <status>
+                    <shipping-status>NOT_SHIPPED</shipping-status>
+                </status>
+                <shipping-method>22819</shipping-method>
+                <shipping-address>
+                    <first-name>dfdf</first-name>
+                    <last-name>gatto</last-name>
+                    <address1>via dfdese 16</address1>
+                    <address2>c/o dfdgfg gfg OD</address2>
+                    <city>milano</city>
+                    <postal-code>20123</postal-code>
+                    <country-code>IT</country-code>
+                </shipping-address>
+                <gift>false</gift>
+                <totals>
+                    <merchandize-total>
+                        <net-price>56.54</net-price>
+                        <tax>12.43</tax>
+                        <gross-price>68.97</gross-price>
+                    </merchandize-total>
+                    <adjusted-merchandize-total>
+                        <net-price>29.49</net-price>
+                        <tax>6.48</tax>
+                        <gross-price>35.97</gross-price>
+                    </adjusted-merchandize-total>
+                    <shipping-total>
+                        <net-price>3.24</net-price>
+                        <tax>0.71</tax>
+                        <gross-price>3.95</gross-price>
+                    </shipping-total>
+                    <adjusted-shipping-total>
+                        <net-price>3.24</net-price>
+                        <tax>0.71</tax>
+                        <gross-price>3.95</gross-price>
+                    </adjusted-shipping-total>
+                    <shipment-total>
+                        <net-price>32.73</net-price>
+                        <tax>7.19</tax>
+                        <gross-price>39.92</gross-price>
+                    </shipment-total>
+                </totals>
+            </shipment>
+        </shipments>
+        <totals>
+            <merchandize-total>
+                <net-price>56.54</net-price>
+                <tax>12.43</tax>
+                <gross-price>68.97</gross-price>
+            </merchandize-total>
+            <adjusted-merchandize-total>
+                <net-price>29.49</net-price>
+                <tax>6.48</tax>
+                <gross-price>35.97</gross-price>
+            </adjusted-merchandize-total>
+            <shipping-total>
+                <net-price>3.24</net-price>
+                <tax>0.71</tax>
+                <gross-price>3.95</gross-price>
+            </shipping-total>
+            <adjusted-shipping-total>
+                <net-price>3.24</net-price>
+                <tax>0.71</tax>
+                <gross-price>3.95</gross-price>
+            </adjusted-shipping-total>
+            <order-total>
+                <net-price>32.73</net-price>
+                <tax>7.19</tax>
+                <gross-price>39.92</gross-price>
+            </order-total>
+        </totals>
+        <payments>
+            <payment>
+                <custom-method>
+                    <method-name>PayPal</method-name>
+                    <custom-attributes>
+                        <custom-attribute attribute-id="paypalAck">Success</custom-attribute>
+                    </custom-attributes>
+                </custom-method>
+                <amount>39.92</amount>
+                <processor-id>PAYPAL</processor-id>
+                <transaction-id>fgfgfgfgfgfgfg</transaction-id>
+                <custom-attributes>
+                    <custom-attribute attribute-id="transactionsHistory">
+                        <value>fgfgfgfgffg</value>
+                    </custom-attribute>
+                </custom-attributes>
+            </payment>
+        </payments>
+        <notes>
+            <note>
+                <created-by>storefront</created-by>
+                <creation-date>2019-09-24T12:41:26.000Z</creation-date>
+                <subject>CAPTURE</subject>
+                <text>39.92EUR has been captured</text>
+            </note>
+        </notes>
+            <custom-attribute attribute-id="captureStatus">captured</custom-attribute>
+            <custom-attribute attribute-id="emarsysExportStatus">READY_FOR_EXPORT</custom-attribute>
+            <custom-attribute attribute-id="paypalPaymentMethod">express</custom-attribute>
+            <custom-attribute attribute-id="refundStatus">not_refunded</custom-attribute>
+            <custom-attribute attribute-id="siteID">revbe-row</custom-attribute>
+        </custom-attributes>
+    </order>
+
+</orders>
