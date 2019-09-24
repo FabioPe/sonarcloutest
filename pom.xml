@@ -39,10 +39,10 @@
 						<configuration>
 							<resources>
 								<resource>
-									<directory>xml/</directory>
+									<directory>src/main/resources/</directory>
 								</resource>
 								<resource>
-									<directory>xsd/</directory>
+									<directory>src/main/xsd/</directory>
 								</resource>
 							</resources>
 						</configuration>
